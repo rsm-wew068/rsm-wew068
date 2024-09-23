@@ -1,5 +1,5 @@
-# Rachel-Wang-Portfolio
-Config files for my GitHub profile.
+# Rachel Wang Portfolio
+Below are projects related to data science.
 
 # SQL Projects
 https://github.com/rsm-wew068/SQL-ETL.git
