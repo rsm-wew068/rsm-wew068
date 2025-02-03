@@ -2,7 +2,7 @@
 Below are projects related to data science and business intelligence.
 
 # Python Projects
-
+https://github.com/rsm-wew068/Group-Projects.git
 
 # SQL & ETL Projects
 https://github.com/rsm-wew068/SQL-ETL.git
