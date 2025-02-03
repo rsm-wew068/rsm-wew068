@@ -1,7 +1,7 @@
 # Rachel Wang Portfolio
 Below are projects related to data science and business intelligence.
 
-# Python Projects
+# Rady Group Projects
 https://github.com/rsm-wew068/Group-Projects.git
 
 # SQL & ETL Projects
